@@ -239,6 +239,7 @@
     <Content Include="dashboardassets\img\elements\4.jpg" />
     <Content Include="dashboardassets\img\elements\5.jpg" />
     <Content Include="dashboardassets\img\elements\7.jpg" />
+    <Content Include="dashboardassets\img\favicon.ico" />
     <Content Include="dashboardassets\img\icons\brands\asana.png" />
     <Content Include="dashboardassets\img\icons\brands\behance.png" />
     <Content Include="dashboardassets\img\icons\brands\brave.png" />
@@ -1159,6 +1160,8 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Account\Forgetpassword.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

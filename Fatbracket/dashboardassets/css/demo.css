@@ -2,10 +2,13 @@
 * demo.css
 * File include item demo only specific css only
 ******************************************************************************/
-
+.leftpanel
+{
+    background-color:black;
+}
 .menu .app-brand.demo {
-  height: 64px;
-  margin-top: 12px;
+    height: 64px;
+    margin-top: 12px;
 }
 
 .app-brand-logo.demo svg {
@@ -16,7 +19,7 @@
 .app-brand-text.demo {
   font-size: 1.75rem;
   letter-spacing: -0.5px;
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
 }
 
 /* ! For .layout-navbar-fixed added fix padding top tpo .layout-page */

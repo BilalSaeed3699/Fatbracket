@@ -26,5 +26,41 @@ namespace Fatbracket.Controllers
             }
             return View();
         }
+
+        public ActionResult Register()
+        {
+            try
+            {
+
+                return View();
+            }
+            catch
+            {
+
+            }
+            finally
+            {
+
+            }
+            return View();
+        }
+
+        public ActionResult Forgetpassword()
+        {
+            try
+            {
+
+                return View();
+            }
+            catch
+            {
+
+            }
+            finally
+            {
+
+            }
+            return View();
+        }
     }
 }
