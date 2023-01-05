@@ -340,6 +340,7 @@
     <Content Include="dashboardassets\img\layouts\layout-fluid-light.png" />
     <Content Include="dashboardassets\img\layouts\layout-without-menu-light.png" />
     <Content Include="dashboardassets\img\layouts\layout-without-navbar-light.png" />
+    <Content Include="dashboardassets\img\Logo.png" />
     <Content Include="dashboardassets\img\pages\header.png" />
     <Content Include="dashboardassets\img\pages\pricing-arrow-light.png" />
     <Content Include="dashboardassets\img\pages\profile-banner.png" />
